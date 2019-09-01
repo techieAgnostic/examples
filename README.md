@@ -57,7 +57,9 @@ for more information.
 Each example has more information in its directory -- click an example below
 to learn more about it.
 
+* [click](click)
 * [hello](hello)
+* [speakrune](speakrune)
 
 ## Learn a lot, and have fun!
 
